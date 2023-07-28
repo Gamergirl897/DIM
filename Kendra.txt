@@ -2,10 +2,12 @@ title:Kendra
 
 // Hung Jury SR4 (Adept) - Hung Jury Adept (pve)
 //notes: Kendra tags:pve
+dimwishlist:item=2883684343&perks=247725512,1820235745,4104185692,3891536761,3824105627
 dimwishlist:item=2883684343&perks=839105230,1820235745
 dimwishlist:item=2883684343&perks=839105230,3891536761
 dimwishlist:item=2883684343&perks=3142289711,3891536761
 dimwishlist:item=2883684343&perks=3142289711,1820235745
+
 
 
 
