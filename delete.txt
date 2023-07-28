@@ -1,7 +1,15 @@
 title:Kendra junk list
 
 // Swarm of the Raven
-//notes: tags:junk
+//notes: tags:junk #junk
 dimwishlist:item=433905699
+dimwishlist:item=2066434718
+dimwishlist:item=4146702548
+dimwishlist:item=3690523502
+dimwishlist:item=2453357042
+dimwishlist:item=407621213
+dimwishlist:item=2257180473
+dimwishlist:item=616582330
+dimwishlist:item=3565520715
 
 
