@@ -1,8 +1,45 @@
 title:Kendra
 
+// THE SWARM (Adept) - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=566740455&perks=2846385770,1890422124
+
+
+// THE SWARM (Adept) - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=566740455&perks=2846385770,1890422124
+dimwishlist:item=566740455&perks=2846385770,365154968
+dimwishlist:item=566740455&perks=1359896290,1890422124
+dimwishlist:item=566740455&perks=1359896290,365154968
+
+
 // Buzzard (Adept) - PVP God Perks (pvp)
 //notes: Kendra's PVP God Perks #A-tier tags:pvp
 dimwishlist:item=927835311&perks=1428297954,2846385770
+
+
+// Buzzard (Adept) - PVP Good Perks (pvp)
+//notes: Kendra's PVP Good Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=927835311&perks=1428297954,2846385770
+dimwishlist:item=927835311&perks=3643424744,2846385770
+
+
+// Buzzard (Adept) - PVE God Perks (pve)
+//notes: Kendra's PVE God Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=927835311&perks=671806388,4104185692
+
+
+// Buzzard (Adept) - PVE Good Perks (pve)
+//notes: Kendra's PVE Good Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=927835311&perks=671806388,4104185692
+dimwishlist:item=927835311&perks=671806388,1546637391
+dimwishlist:item=927835311&perks=671806388,3891536761
+dimwishlist:item=927835311&perks=1428297954,4104185692
+dimwishlist:item=927835311&perks=1428297954,1546637391
+dimwishlist:item=927835311&perks=1428297954,3891536761
+dimwishlist:item=927835311&perks=3643424744,4104185692
+dimwishlist:item=927835311&perks=3643424744,1546637391
+dimwishlist:item=927835311&perks=3643424744,3891536761
 
 
 // Chroma Rush - pve god perks (pve)
@@ -15,9 +52,9 @@ dimwishlist:item=1119734784&perks=2779035018,3425386926
 dimwishlist:item=1119734784&perks=588594999,1890422124
 
 
-// Hung Jury SR4 (Adept) - Kendra's God Perks (pve)
-//notes: Kendra's PVE God Perks #A-tier tags:pve
-dimwishlist:item=2883684343&perks=247725512,4104185692
+// Hung Jury SR4 (Adept) - Kendra's PVP God Perks (pvp)
+//notes: Kendra's PVP God Perks #A-tier Kendra https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2883684343&perks=247725512,2551157718
 
 
 // Hung Jury SR4 (Adept) - Kendra's Great Perks (pve)
@@ -28,5 +65,77 @@ dimwishlist:item=2883684343&perks=247725512,4104185692
 dimwishlist:item=2883684343&perks=1820235745,3891536761
 dimwishlist:item=2883684343&perks=1820235745,3824105627
 dimwishlist:item=2883684343&perks=1820235745,4104185692
+
+
+// Hung Jury SR4 (Adept) - Kendra's PVP Good Perks (pvp)
+//notes: Kendra's PVP Good Perks #A-tier Kendra https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2883684343&perks=2866798147,2551157718
+
+
+// Hung Jury SR4 (Adept) - Kendra's PVE God Perks (pve)
+//notes: Kendra's PVE God Perks #A-tier Kendra https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=2883684343&perks=247725512,4104185692
+
+
+// Autumn Wind - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP Only God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3110377595&perks=2846385770,460017080
+
+
+// Autumn Wind - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Only Good Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=2846385770,3511092054
+dimwishlist:item=3110377595&perks=2846385770,588594999
+dimwishlist:item=3110377595&perks=2450788523,460017080
+dimwishlist:item=3110377595&perks=2450788523,3511092054
+dimwishlist:item=3110377595&perks=2450788523,588594999
+dimwishlist:item=3110377595&perks=1570042021,460017080
+dimwishlist:item=3110377595&perks=1570042021,3511092054
+dimwishlist:item=3110377595&perks=1570042021,588594999
+
+
+// Wendigo GL3 (Adept) - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3915197957&perks=3300816228,3194351027
+
+
+// Wendigo GL3 (Adept) - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3915197957&perks=3300816228,3194351027
+dimwishlist:item=3915197957&perks=3300816228,4104185692
+dimwishlist:item=3915197957&perks=3300816228,2610012052
+dimwishlist:item=3915197957&perks=2869569095,3194351027
+dimwishlist:item=3915197957&perks=2869569095,4104185692
+dimwishlist:item=3915197957&perks=2869569095,2610012052
+dimwishlist:item=3915197957&perks=2396489472,3194351027
+dimwishlist:item=3915197957&perks=2396489472,4104185692
+dimwishlist:item=3915197957&perks=2396489472,2610012052
+
+
+// Wendigo GL3 (Adept) - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3915197957&perks=951095735,2846385770
+
+
+// Wendigo GL3 (Adept) - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3915197957&perks=2396489472,2846385770
+
+
+// The Militia's Birthright (Adept) - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=4162642204&perks=2010801679,3300816228
+
+
+// The Militia's Birthright (Adept) - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=4162642204&perks=2010801679,4104185692
+dimwishlist:item=4162642204&perks=2010801679,4049631843
+
+
+// The Militia's Birthright (Adept) - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=4162642204&perks=2039302152,3300816228
 
 
