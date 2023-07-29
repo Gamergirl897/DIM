@@ -186,6 +186,38 @@ dimwishlist:item=2883684343&perks=2866798147,2551157718
 dimwishlist:item=2883684343&perks=247725512,4104185692
 
 
+// Loaded Question (Adept) - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks
+https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=2914913838&perks=3300816228,1427256713
+
+
+// Loaded Question (Adept) - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks
+https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=2914913838&perks=3300816228,1427256713
+dimwishlist:item=2914913838&perks=3300816228,2594592626
+dimwishlist:item=2914913838&perks=3300816228,4104185692
+dimwishlist:item=2914913838&perks=3643424744,1427256713
+dimwishlist:item=2914913838&perks=3643424744,2594592626
+dimwishlist:item=2914913838&perks=3643424744,4104185692
+
+
+// Loaded Question (Adept) - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks
+https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2914913838&perks=1645158859,2594592626
+
+
+// Loaded Question (Adept) - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks
+https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2914913838&perks=1645158859,2594592626
+dimwishlist:item=2914913838&perks=1645158859,699525795
+dimwishlist:item=2914913838&perks=280464955,2594592626
+dimwishlist:item=2914913838&perks=280464955,699525795
+
+
 // Autumn Wind - Kendra PVP God Perks (pvp)
 //notes: Kendra PVP Only God Perks https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
 dimwishlist:item=3110377595&perks=2846385770,460017080
@@ -267,6 +299,36 @@ dimwishlist:item=3678653083&perks=3418782618,831391274
 dimwishlist:item=3678653083&perks=3436462433,4104185692
 dimwishlist:item=3678653083&perks=3436462433,3523296417
 dimwishlist:item=3678653083&perks=3436462433,831391274
+
+
+// The Messenger - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3796795102&perks=247725512,1015611457
+
+
+// The Messenger - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3796795102&perks=247725512,1015611457
+dimwishlist:item=3796795102&perks=247725512,3891536761
+dimwishlist:item=3796795102&perks=247725512,3047969693
+dimwishlist:item=3796795102&perks=1168162263,1015611457
+dimwishlist:item=3796795102&perks=1168162263,3891536761
+dimwishlist:item=3796795102&perks=1168162263,3047969693
+
+
+// The Messenger - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3796795102&perks=247725512,460017080
+
+
+// The Messenger - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3796795102&perks=247725512,460017080
+dimwishlist:item=3796795102&perks=247725512,1015611457
+dimwishlist:item=3796795102&perks=588594999,460017080
+dimwishlist:item=3796795102&perks=588594999,1015611457
+dimwishlist:item=3796795102&perks=1428297954,460017080
+dimwishlist:item=3796795102&perks=1428297954,1015611457
 
 
 // Wendigo GL3 (Adept) - Kendra PVE God Perks (pve)
