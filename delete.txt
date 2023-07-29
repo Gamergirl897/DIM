@@ -1,7 +1,7 @@
 title:Kendra junk list
 
-// Swarm of the Raven
-//notes: tags:junk #junk
+// Hand Cannon Junk
+//notes: https://www.blueberries.gg/weapons/destiny-2-hand-cannons/ tags:junk 
 dimwishlist:item=433905699
 dimwishlist:item=2066434718
 dimwishlist:item=4146702548
@@ -11,5 +11,26 @@ dimwishlist:item=407621213
 dimwishlist:item=2257180473
 dimwishlist:item=616582330
 dimwishlist:item=3565520715
-
+dimwishlist:item=2671639706
+dimwishlist:item=6857689
+dimwishlist:item=1046651176
+dimwishlist:item=1331824604
+dimwishlist:item=4292849692
+dimwishlist:item=2888266564
+dimwishlist:item=2742838701
+dimwishlist:item=3813153080
+dimwishlist:item=1141547457
+dimwishlist:item=1731355324
+dimwishlist:item=1476654960
+dimwishlist:item=3924212056
+dimwishlist:item=1835747805
+dimwishlist:item=1555959830
+dimwishlist:item=1856262127
+dimwishlist:item=3236112986
+dimwishlist:item=310708513
+dimwishlist:item=2220884262
+dimwishlist:item=2742838700
+dimwishlist:item=2850664015
+dimwishlist:item=1622998472
+dimwishlist:item=334171687
 
