@@ -13,24 +13,27 @@ dimwishlist:item=616582330
 dimwishlist:item=3565520715
 dimwishlist:item=2671639706
 dimwishlist:item=6857689
-dimwishlist:item=1046651176
-dimwishlist:item=1331824604
-dimwishlist:item=4292849692
 dimwishlist:item=2888266564
-dimwishlist:item=2742838701
 dimwishlist:item=3813153080
 dimwishlist:item=1141547457
 dimwishlist:item=1731355324
 dimwishlist:item=1476654960
-dimwishlist:item=3924212056
 dimwishlist:item=1835747805
 dimwishlist:item=1555959830
-dimwishlist:item=1856262127
-dimwishlist:item=3236112986
-dimwishlist:item=310708513
-dimwishlist:item=2220884262
-dimwishlist:item=2742838700
-dimwishlist:item=2850664015
 dimwishlist:item=1622998472
-dimwishlist:item=334171687
+
+
+// Shotgun Junk
+//notes: https://www.blueberries.gg/weapons/destiny-2-best-shotguns/ tags:junk
+dimwishlist:item=2573900604
+dimwishlist:item=3738678140
+dimwishlist:item=664109750
+dimwishlist:item=1016668089
+dimwishlist:item=3216652511
+dimwishlist:item=1402766122
+dimwishlist:item=1821724780
+dimwishlist:item=2443900757
+dimwishlist:item=217140611
+dimwishlist:item=2957367743
+dimwishlist:item=3356526253
 
