@@ -1,5 +1,48 @@
 title:Kendra
 
+// Glissando-47 - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks tags:pve https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=222606050&perks=1523832109,4049631843
+
+
+// Glissando-47 - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks tags:pve https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=222606050&perks=1523832109,4049631843
+dimwishlist:item=222606050&perks=1523832109,2551157718
+dimwishlist:item=222606050&perks=1523832109,831391274
+dimwishlist:item=222606050&perks=3643424744,4049631843
+dimwishlist:item=222606050&perks=3643424744,2551157718
+dimwishlist:item=222606050&perks=3643424744,831391274
+
+
+// Glissando-47 - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks tags:pvp https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=222606050&perks=2866798147,2551157718
+
+
+// Glissando-47 - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks tags:pvp https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=222606050&perks=2866798147,2551157718
+dimwishlist:item=222606050&perks=2866798147,47981717
+dimwishlist:item=222606050&perks=3619207468,2551157718
+dimwishlist:item=222606050&perks=3619207468,47981717
+
+
+// Positive Outlook - Kendra God PVE Perks (pve)
+//notes: Kendra God PVE Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=491078457&perks=2010801679,2610012052
+
+
+// Positive Outlook - Kendra Good PVE Perks (pve)
+//notes: Kendra Good PVE Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=491078457&perks=2010801679,2610012052
+dimwishlist:item=491078457&perks=2010801679,2048641572
+dimwishlist:item=491078457&perks=2010801679,776531651
+dimwishlist:item=491078457&perks=1583705720,2610012052
+dimwishlist:item=491078457&perks=1583705720,2048641572
+dimwishlist:item=491078457&perks=1583705720,776531651
+
+
 // THE SWARM (Adept) - Kendra PVP God Perks (pvp)
 //notes: Kendra PVP God Perks #A-tier https://www.reddit.com/r/sharditkeepit/comments/12kyml3/lightfall_vendor_nightfall_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
 dimwishlist:item=566740455&perks=2846385770,1890422124
@@ -42,6 +85,41 @@ dimwishlist:item=927835311&perks=3643424744,1546637391
 dimwishlist:item=927835311&perks=3643424744,3891536761
 
 
+// Pressurized Precision - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=1084190509&perks=3300816228,1546637391
+
+
+// Pressurized Precision - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=1084190509&perks=3300816228,1546637391
+dimwishlist:item=1084190509&perks=3300816228,831391274
+dimwishlist:item=1084190509&perks=3300816228,2213355989
+dimwishlist:item=1084190509&perks=3978468247,1546637391
+dimwishlist:item=1084190509&perks=3978468247,831391274
+dimwishlist:item=1084190509&perks=3978468247,2213355989
+
+
+// Last Foray - Kendra God PVE Perks (pve)
+//notes: Kendra God PVE Perks tags:pve,only
+https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=1106635211&perks=2869569095,4104185692
+
+
+// Last Foray - Kendra Good PVE Perks (pve)
+//notes: Kendra Good PVE Perks tags:pve,only
+https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=1106635211&perks=2869569095,4104185692
+dimwishlist:item=1106635211&perks=2869569095,4293542123
+dimwishlist:item=1106635211&perks=2869569095,3751912585
+dimwishlist:item=1106635211&perks=1556840489,4104185692
+dimwishlist:item=1106635211&perks=1556840489,4293542123
+dimwishlist:item=1106635211&perks=1556840489,3751912585
+dimwishlist:item=1106635211&perks=968510818,4104185692
+dimwishlist:item=1106635211&perks=968510818,4293542123
+dimwishlist:item=1106635211&perks=968510818,3751912585
+
+
 // Chroma Rush - pve god perks (pve)
 //notes: kendra god perks #s-tier tags:pve
 dimwishlist:item=1119734784&perks=2779035018,3425386926
@@ -50,6 +128,37 @@ dimwishlist:item=1119734784&perks=2779035018,3425386926
 // Chroma Rush - pvp god perks (pvp)
 //notes: kendra god perks #s-tier tags:pvp
 dimwishlist:item=1119734784&perks=588594999,1890422124
+
+
+// Combined Action - Kendra God PVE Perks (pve)
+//notes: Kendra God PVE Perks tags:pve,only https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=1331824604&perks=2387244414,2173046394
+
+
+// Combined Action - Kendra Good PVE Perks (pve)
+//notes: Kendra Good PVE Perks tags:pve,only https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=1331824604&perks=2387244414,2173046394
+dimwishlist:item=1331824604&perks=2387244414,1954620775
+dimwishlist:item=1331824604&perks=684456054,2173046394
+dimwishlist:item=1331824604&perks=684456054,1954620775
+
+
+// Mercurial Overreach - Kendra PVP God Perks (pvp)
+//notes: Kendra PVP God Perks #pvp-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2073794990&perks=957782887,47981717
+
+
+// Mercurial Overreach - Kendra PVP Good Perks (pvp)
+//notes: Kendra PVP Good Perks #pvp-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=2073794990&perks=957782887,47981717
+dimwishlist:item=2073794990&perks=957782887,3511092054
+dimwishlist:item=2073794990&perks=957782887,588594999
+dimwishlist:item=2073794990&perks=3436462433,47981717
+dimwishlist:item=2073794990&perks=3436462433,3511092054
+dimwishlist:item=2073794990&perks=3436462433,588594999
+dimwishlist:item=2073794990&perks=3978468247,47981717
+dimwishlist:item=2073794990&perks=3978468247,3511092054
+dimwishlist:item=2073794990&perks=3978468247,588594999
 
 
 // Hung Jury SR4 (Adept) - Kendra's PVP God Perks (pvp)
@@ -93,6 +202,71 @@ dimwishlist:item=3110377595&perks=2450788523,588594999
 dimwishlist:item=3110377595&perks=1570042021,460017080
 dimwishlist:item=3110377595&perks=1570042021,3511092054
 dimwishlist:item=3110377595&perks=1570042021,588594999
+
+
+// Laser Painter - Kendra PVE God Perks (pve)
+//notes: Kendra PVE God Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3221722018&perks=247725512,1546637391
+
+
+// Laser Painter - Kendra PVE Good Perks (pve)
+//notes: Kendra PVE Good Perks #pve-only https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3221722018&perks=247725512,1546637391
+dimwishlist:item=3221722018&perks=247725512,2610012052
+dimwishlist:item=3221722018&perks=247725512,2213355989
+dimwishlist:item=3221722018&perks=2284787283,1546637391
+dimwishlist:item=3221722018&perks=2284787283,2610012052
+dimwishlist:item=3221722018&perks=2284787283,2213355989
+dimwishlist:item=3221722018&perks=3300816228,1546637391
+dimwishlist:item=3221722018&perks=3300816228,2610012052
+dimwishlist:item=3221722018&perks=3300816228,2213355989
+
+
+// Randy's Throwing Knife - Kendra God PVE (pve)
+//notes: Kendra God PVE https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3292795429&perks=247725512,3891536761
+
+
+// Randy's Throwing Knife - Kendra Good PVE  (pve)
+//notes: Kendra Good PVE https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pve
+dimwishlist:item=3292795429&perks=691659142,1015611457
+dimwishlist:item=3292795429&perks=691659142,3891536761
+dimwishlist:item=3292795429&perks=691659142,3751912585
+dimwishlist:item=3292795429&perks=744594675,1015611457
+dimwishlist:item=3292795429&perks=744594675,3891536761
+dimwishlist:item=3292795429&perks=744594675,3751912585
+
+
+// Randy's Throwing Knife - Kendra God PVP (pvp)
+//notes: Kendra God PVP https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3292795429&perks=247725512,1015611457
+
+
+// Randy's Throwing Knife - Kendra Good PVP (pvp)
+//notes: Kendra Good PVP https://www.reddit.com/r/sharditkeepit/comments/145h7ey/s21_vendor_weapon_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1 tags:pvp
+dimwishlist:item=3292795429&perks=247725512,1015611457
+dimwishlist:item=3292795429&perks=247725512,4082225868
+dimwishlist:item=3292795429&perks=2387244414,1015611457
+dimwishlist:item=3292795429&perks=2387244414,4082225868
+dimwishlist:item=3292795429&perks=1428297954,1015611457
+dimwishlist:item=3292795429&perks=1428297954,4082225868
+
+
+// Old Sterling - Kendra God PVE Perks (pve)
+//notes: Kendra God PVE Perks tags:pve
+https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=3678653083&perks=3418782618,4104185692
+
+
+// Old Sterling - Kendra Go0d PVE Perks (pve)
+//notes: Kendra Good PVE Perks tags:pve
+https://www.reddit.com/r/sharditkeepit/comments/145h6na/s21_world_drop_breakdown/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1
+dimwishlist:item=3678653083&perks=3418782618,4104185692
+dimwishlist:item=3678653083&perks=3418782618,3523296417
+dimwishlist:item=3678653083&perks=3418782618,831391274
+dimwishlist:item=3678653083&perks=3436462433,4104185692
+dimwishlist:item=3678653083&perks=3436462433,3523296417
+dimwishlist:item=3678653083&perks=3436462433,831391274
 
 
 // Wendigo GL3 (Adept) - Kendra PVE God Perks (pve)
