@@ -37,3 +37,7 @@ dimwishlist:item=217140611
 dimwishlist:item=2957367743
 dimwishlist:item=3356526253
 
+// SMG Junk
+// notes: https://www.blueberries.gg/weapons/destiny-2-smg/ pizzicato
+dimwishlist:item=4100775158
+
